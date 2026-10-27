@@ -1,6 +1,7 @@
 # A-Dumb-Intro-to-Crypto
 
 *A Roblox data-center tycoon and fictional cryptocurrency market simulator.*
+(Open it on roblox studio btw)
 
 ## About the Project
 
@@ -66,3 +67,7 @@ This is a fictional cryptocurrency-themed game. Its market behavior is a simplif
 Created by the original developer of **A-Dumb-Intro-to-Crypto**.
 
 Developed using Roblox Studio and Luau, with AI assistance as described above.
+
+Also thank you SO MUCH to boatbomber for putting his graph module free for open use on the roblox dev forum, without his free graphs, I would have lost so much time trying to develop this project
+Link is here:
+https://devforum.roblox.com/t/graph-module-easily-draw-graphs-of-your-data/828982
